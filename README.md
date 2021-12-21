@@ -16,4 +16,4 @@ In order to actually run the code, go to the Voltorb Flip table in the Crisola H
 
 There are prior versions of the code in folder labeled 'OldVersions' (crazy, I know), these should mostly work but bug fixes have only been done on the versions not in this folder.
 
-Levels 1-4 come free, just need unzipping, Levels 5+ are with the paid DLC... just kidding, the board data for Levels 5 and beyond is beyond 25MB AFTER compressing, and thats per level, so uh, its big. And I can't upload them easily here. 
+You need to download the Board_Data folder to the same place as the Python flies so they can read them, Levels 1-4 come free, just need unzipping, Levels 5+ are with the paid DLC... just kidding, the board data for Levels 5 and beyond is beyond 25MB AFTER compressing, and thats per level, so uh, its big. And I can't upload them easily here. 
