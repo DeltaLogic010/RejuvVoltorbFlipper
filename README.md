@@ -4,7 +4,7 @@ A program designed to play Voltorb Flip in Pokemon Rejuvenation - please read th
 
 
 
-This program is designed specifically for Pokemon Rejuvenation Version 13.0.5 and has not been tested on any other versions of this game or similar games. \n
+This program is designed specifically for Pokemon Rejuvenation Version 13.0.5 and has not been tested on any other versions of this game or similar games.
 This program is designed specifically for my machine and has not been tested on any other devices.
 
 Right; In theory this program should work for anyone with a 1920 x 1080 monitor/screen resolution while playing the game in large screen size with "Turbo Speed" enabled and set to 4x. To fit this to any other sizing or resolutions, you will need to edit values on lines: 48 - 69, 80 - 85, 90 - 103, 167 - 169 and 432; Everything else should be fine. Commenting is sparse however I have left a comment above all the most important function, but I apologise if you want to delve deeper into it, it may not be clear what I have done and some functions may even be redundant from earlier versions.
